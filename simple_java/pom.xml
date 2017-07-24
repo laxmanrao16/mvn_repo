@@ -21,7 +21,7 @@
  <scm>
         <connection>scm:git:https://github.com/laxmanrao16/mvn_repo.git</connection>
         <developerConnection>scm:git:https://github.com/laxmanrao16/mvn_repo.git</developerConnection>
-    <tag>HEAD</tag>
+    <tag>feature1.1_ branch</tag>
   </scm>
 
 <build>
